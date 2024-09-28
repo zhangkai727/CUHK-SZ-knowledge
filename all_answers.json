@@ -1,0 +1,538 @@
+[
+    [
+        "鼠标移动在Windows10任务栏上出现卡死与转圈，点击任务栏无响应，开始菜单均无法打开等现象。",
+        "关闭任务栏中的“News and Interests/新闻和兴趣”功能。\n同时按Ctrl+Alt+Del三个组合键，点击右下角无线网络，然后断开WiFi连接或直接断开有线网络连接。再进入系统桌面后任务栏就可以正常显示和操作，然后在任务栏上右键关闭“资讯和兴趣”。\n![image66](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image66.jpeg"
+    ],
+    [
+        "个人电脑使用Cisco AnyConnect访问VPN，登录后没有网络怎么办？",
+        "鼠标右击屏幕右下角的网络图标，如下图\n![image47](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image47.png)\n打开“网络和Internet设置” > 状态 > 更改适配器选项 > Cisco AnyConnect Secure Mobility Client Connection（如下图），重命名为较简短即可。\n![image48](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image48.png)"
+    ],
+    [
+        "在Chrome浏览器使用学校系统，无法正常登出切换账号，应该如何操作？",
+        "需要清理浏览器缓存和cookie，再次访问系统即可重新登录其他账号，操作步骤如下：\n打开浏览器设置 > 隐私设置和安全性 > 清理浏览数据 > 基本 > 时间范围（选择时间不限） > 不勾选浏览记录 > 点击清除数据 > 重启浏览器。\n使用组合键（Ctrl+shift+delete）也可以快速打开清理浏览数据界面。\n![image67](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image67.png\n![image68](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image68.png\n![image69](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image69.png"
+    ],
+    [
+        "我在新生注册时，不小心把我的姓名的拼音填错了。我发现我的邮箱显示名和别名都是用了错的拼音，请问如何修改？",
+        "如果是本科生，请联系教务处，由教务处确认无误后发邮件至 isupport@cuhk.edu.cn；\n如果是研究生，请联系研究生院，由研究生院确认无误后发邮件至isupport@cuhk.edu.cn。"
+    ],
+    [
+        "办事大厅的各个业务系统（如教务系统、费控系统、行政系统）的具体业务问题应该咨询哪个部门？",
+        "有关系统的相关业务问题应该咨询对应的业务部门，如：费控系统——财务处、教务系统——教务处、行政系统（场地预定系统、班车预定系统）——行政事务处，等等。如有系统技术问题，业务部门会与负责相关系统的IT老师进行反馈。"
+    ],
+    [
+        "anyconnect登陆后连接慢，导致无法连接网络？",
+        "经检查原先是4.8的版本，在SharePoint>Staff Public Documents下载4.10的版本，卸载旧版安装新版后，得以解决问题。"
+    ],
+    [
+        "临时账号到期该如何办理延期？",
+        "临时账号的使用期限是根据创建账号时，提供的劳务协议起止时间来设定，若劳务协议到期，临时账号也随即到期。若劳务协议已续签，且临时账号仍需继续使用，需要由全职教职工到办事大厅i.cuhk.edu.cn > 服务中心 > IT服务 > CUHKSZ账号提单，申请账号延期即可。"
+    ],
+    [
+        "我的访客卡/家属卡/附属单位卡的卡号无法登录校园网CUHK(SZ) WiFi？",
+        "校园网络需要使用CUHK(SZ)账号登录，无法使用校园卡卡号登录，可以使用CUHK(SZ)-GUEST WiFi上网。"
+    ],
+    [
+        "请问我的办公电脑（台式电脑/笔记本电脑）怎么样安装常用的办公软件？",
+        "从ITSO出库配发给教职员的办公电脑，会有预装一些常用的办公软件。\n可以从办公电脑的电脑桌面 > 软件中心（Software Center）> Applications查看并安装。\n可以提前下载好软件安装包，打开iSupport（TeamViewer）远程软件，后联系ITSO热线84273333，并在电话中将软件左边显示的远程ID和密码告知给我们服务台的同事，我们会进行远程授权安装。"
+    ],
+    [
+        "我的办公台式电脑没有网络，网络图标显示小地球，并且电话座机的显示器也是黑屏的，没有通电，该怎么办？",
+        "座机没有通电，说明办公室地上或者墙上的网络端口连接到座机的网络不通，可以先拔插一下网线两端，查看座机能否正常通电并且显示用户名和座机号码，如果都有显示说明已恢复正常。再查看台式电脑网络是否恢复正常，如果还未恢复，则需要检查座机与电脑主机连接的网线，可以拔插一下网线两端，再查看电脑网络是否恢复正常。如已进行以上操作后仍无网络，请联系ITSO热线84273333，我们将安排专人跟进处理。"
+    ],
+    [
+        "关于选课的咨询？",
+        "请参考教务处官网FAQ: [https://registry.cuhk.edu.cn/faq/182/search](https://registry.cuhk.edu.cn/faq/182/search) 。"
+    ],
+    [
+        "使用有线网络时，电脑右下角显示“网络无连接”，该如何处理？",
+        "判断网卡接口灯是否正常：如果接口灯不正常，可换一台终端测试，排除终端网卡的问题。如网卡和接口灯都正常：请参照下图查看IP地址和DNS获取是否正常。\n![image12](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image12.png)\n有线网络认证：\n网线连接的设备都需要认证才能上网。包括自带无线路由器、laptop, 台式电脑。\n有线认证的方法请参考：\n[https://itso.cuhk.edu.cn/node/255](https://itso.cuhk.edu.cn/node/255)\n无线网络认证：\n1) CUHK(SZ) 采用WEB+MAC地址优先认证。第一次上网，更换AD域密码需要WEB认证，此后的180天上网不需要WEB认证。\n2) eduroam 采用802.1x认证。\n3) 无线接入和认证方法，VPN网络使用请参考ITSO的support网站 \n[https://itso.cuhk.edu.cn/node/171](https://itso.cuhk.edu.cn/node/171)"
+    ],
+    [
+        "请问办公室的IP电话如何使用？",
+        "### 指引图\n\n![image49](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image49.jpg)\n\n### 接听/拨打电话\n\n#### 接听电话\n\n来电时，屏幕将显示对方号码。对于拨打842-73333热线的电话，则会显示呼叫人CCG_ITSO。此时有四种方式接起电话：拿起听筒，电话将直接接通，可通过听筒与对方对话；点击屏幕菜单中Answer下方对应的功能键，电话将接通并激活免提模式。对方声音将直接外放。可通过直接对电话机讲话与对方通话；点击免提键，电话同样接通并激活免提模式；点击耳机键，电话将接通并可通过与座机连接的耳机与对方通话。\n\n#### 拨打电话\n\n拨打电话时，可在话筒置于座机上时输入对方号码，随后拿起听筒/点击Call/点击免提键/点击耳机键拨出电话。四种方式的具体区别与接听电话时四种方式的区别一致。拨打外线电话（即不为学校内的办公用固定电话）时，需要在号码前加拨9；拨打外线移动电话时需要在号码前加拨90；拨打国际长途电话需要加拨900，另外座机还需开通国际长途拨打权限。\n\n### 音源切换与音量控制\n\n#### 音源切换\n\n通话进行时，若需要切换当前的通话方式，如因正在进行远程控制需要将通话转到耳机中，可通过右下角三枚声音控制按键进行切换。当需要将通话从听筒转到免提/耳机时，可按下免提/耳机键。当它亮绿灯时则说明切换成功。此时可将听筒放回座机上而不会挂断电话；若需要将通话从免提/耳机切回听筒，则可直接将听筒从座机上拿起。若切换免提/耳机后听筒未归位，则也可再次按下免提/耳机键确认指示灯熄灭，通话随即转至听筒。注意：若听筒置于座机上按压灯亮的免提/耳机键为挂断电话。当需要将通话在免提与耳机间互转时，直接按压目标模式键即可。灯亮即转换成功。当用户咨询问题较复杂需要与服务台其他老师咨询讨论时，可按压静音键将本机静音。对方将听不到服务台一侧声音。返回对话时只需再次按压静音键使红色指示灯熄灭。\n\n#### 音量控制\n\n当座机在待机状态时，按压左下侧音量调整键可调整来电响铃音量。当座机在通话中时，按压音量调整键可调整通话音量。\n\n### 呼叫转移、转接与电话会议\n\n#### 挂起\n\n在需要暂停与用户的通话并与工程师电话沟通时，可将用户的电话暂时挂起。在通话中按压挂起键，可看到用户电话左侧显示暂停图标。此时用户将只能听到舒缓的音乐。在该状态下可拨通其他电话的同时保持用户电话在线。\n\n#### 呼叫转移\n\n启用呼叫转移功能时，拨入该座机的所有电话将被转接到所设置的电话。启用呼叫转移，可通过在座机待机主界面点击Fwd All对应的多功能键，随后在号码输入栏中输入需要转接至的号码。注意：当目标号码为外线电话/移动电话时，需要按正常拨出目标号码的规则在号码前加拨9或90。随后按压座机中央圆形的确认键确认转接。关闭呼叫转移，可按压Fwd Off对应的多功能键。\n\n#### 转接\n\n转接功能用于将用户与某特定电话之间的通话转到另外一台电话上。如因远程连接不畅需要换一个工位与老师继续沟通，此时可将当前工位座机通话转接到目标工位的座机上。使用转接功能时，可在通话进行过程中按压转接键。随后在弹出的号码输入栏中输入目标座机的号码，内、外线均可。注意：当目标号码为外线电话/移动电话时，需要按正常拨出目标号码的规则在号码前加拨9或90。输入完成后等待目标座机接起再点击Transfer对应的多功能键。若目标座机未接听该电话，已点击Transfer的通话将会直接挂断；若还未点击Transfer，则该通话将会返回当前座机。\n\n#### 电话会议\n\n电话会议一般用于如服务台、工程师与用户的三方交流等场景下需要第三方加入通话时。使用电话会议功能时，按压座机上的电话会议键，在电话号码输入栏中拨通需要邀请的第三方参会电话。拨通后按压Conference对应的多功能键启用会议。通话界面将显示conference。\n\n### 通话记录与重拨\n\n#### 通话记录\n\n在座机主页点击Recents对应的多功能键进入通话记录页。使用座机中间圆形的导航键可以上下选择需要查看的通话记录。点击Missed对应的多功能键可以查看所有的未接来电，再点击All Calls可以切换回查看所有通话。点击右侧的三个圆点对应的多功能键可以查看更多选项。其中Details可以查看高亮选中的通话记录详情。包括通话时间，对方号码等。EditDial可以编辑并拨出对方号码。一般用于对方使用手机来电而回拨时需要加拨9/90的情况。Clear与Delete用于清空/删除通话记录。\n\n#### 重拨\n\n点击座机主页Redial对应的多功能键可以直接回拨最近一通电话。在通话记录页面高亮需要重拨的通话记录后，可直接拿起话筒/按压免提、耳机键/Call多功能键拨通该通话记录。在通话记录页使用EditDial功能可快速加拨号码并拨出选定的通话记录。\n\n### 座机设置重置\n\n#### 重置设置\n\n按压左侧齿轮形设置按键，随后按顺序输入541，或按路径`Admin Settings>Reset Settings>All`重置座机所有设置。\n"
+    ],
+    [
+        "教职工连接VPN之后，图书馆资源无法使用？",
+        "当教职工在校外需要访问图书馆电子资源时，可以使用CUHK(SZ)账号登录VPN客户端(Cisco AnyConnect)，服务器地址变更为vpn.cuhk.edu.cn/lib 访问更多海外学术网站时的方式使用CUHK(SZ)账号登录VPN客户端，服务器地址仍然是vpn.cuhk.edu.cn。"
+    ],
+    [
+        "我的校园卡为什么进不了大学图书馆？",
+        "大学图书馆相关权限：\n全职员工卡和学生卡通过人脸识别刷脸进入；\n家属卡、兼职员工访客卡、附属单位卡、物业卡、校友卡凭校园卡在门口登记进入；\n无校园卡人员需要校内全职员工带领进入。"
+    ],
+    [
+        "Outlook存档后的文件（.pst）为什么双击不能打开，提示需要使用Outlook打开，怎么处理呢？",
+        "Outlook进行备份和存档生成的文件（.pst）是需要在Outlook客户端打开，操作步骤：文件 > 打开和导出 > 打开Outlook数据文件。"
+    ],
+    [
+        "Zoom云录制文件只能保存60天，需要永久保存该如何操作？",
+        "因为Zoom云空间受限，只能提供60天的云录制存储时间。建议将录制的视频文件下载并上传至大学视频库[Panopto](https://video.cuhk.edu.cn/) ，将可以永久保存你的录制视频。\n![image79](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image79.png"
+    ],
+    [
+        "我在向某些同学/教授发邮件时会提示“该收件人在您的组织外”怎么办？",
+        "如果您确认该同学/教授使用的是学校邮箱，则您可能需要更新您的outlook通讯簿。可致电ITSO 842-73333协助更新；如果收件人地址并不是学校邮箱，则该提示只是提示用户该收件人在组织外，并不是禁止发送该邮件。您可以尝试正常发送该邮件。"
+    ],
+    [
+        "我在哪里可以找到Wind经济数据库？",
+        "用户可以预约使用TA209的终端机。\n如果您对终端有任何疑问，请直接与SME实验室联系。"
+    ],
+    [
+        "手机显示连接不到网络说明：",
+        "最新的 Android 和 iOS 更新使用随机分配的 MAC 地址进行 WiFi 连接。,[https://support.apple.com/zh-cn/guide/mail/mlhlae4a4fe6/mac](https://support.apple.com/zh-cn/guide/mail/mlhlae4a4fe6/mac)\n当iphone和ipad无线信号经常显示感叹号“！”，表示网络无连接时，并不一定真正代表学校无线网络没信号，可以打开内网访问网站或者10.10.10.10。如果正常访问说明学校无线网络正常，iOS15.2以上用户可以尝试关闭iphone或者ipad限制IP地址跟踪功能，让网络连接显示正常。"
+    ],
+    [
+        "我想要使用离职同事的电话机应该如何申请？",
+        "请联系部门资产管理员完成资产调拨流程，然后由资产管理员向ITSO公邮isupport@cuhk.edu.cn发邮件申请变更电话显示名。需要附上电话座机背后带有四行条形码的MAC地址标签照片与所需变更为的新显示名称。"
+    ],
+    [
+        "高性能计算平台是什么？",
+        "香港中文大学（深圳）高性能计算平台旨在为校内科研计算提供算力支撑服务，通过高性能计算集群管理平台、深度学习管理平台、高速大容量存储系统、高速IB计算网络等产品对大学现有零散的CPU服务器和GPU服务器进行统一管理，搭建一个校级高性能计算平台，也为日后大学建立领先级超算平台搭好整体框架。\n\n高性能计算平台目前包含CE集群和AI集群，为大学各类科研机构的科学计算提供一流的基础运算环境，为学校建设一个功能齐全、平台丰富、高效节能的高性能计算研究和服务中心。高性能计算平台的应用领域包括深度学习、新型材料、地球物理、生物医药健康、计算机辅助工程仿真等，涉及数学、统计学、物理学、化学、生物信息学、计算机科学等多个学科。\n\n目前ITSO没有教学类的服务器资源提供。如老师有此需求，建议在每年做预算时，联系学院评估后可以向相关部门提出预算，或者学院内部协调资源。"
+    ],
+    [
+        "请问我的电话显示名不是我自己，应该如何修改？",
+        "请在网上办事大厅（i.cuhk.edu.cn）>IT服务>其他服务提交申请，或发邮件到isupport@cuhk.edu.cn，在邮件中提供电话座机背后带有四行条形码的MAC地址标签照片以及需要变更为的新的显示名称。"
+    ],
+    [
+        "AnyConnect连接成功之后反复中断。",
+        "如果AnyConnect连接之后反复中断，请及时联系ITSO协助解决, 同时反馈如下信息。\n![image25](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image25.png)"
+    ],
+    [
+        "打印错误已停止 - “过滤器”失败",
+        "删除Brocadesoft文件夹\n\n![image70](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image70.png\n卸载打印机驱动\n重新安装打印机驱动\n修改文件夹（共享与权限）权限\n右击文件夹打开简介\n![image71](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image71.png\n点击右下角解锁\n![image72](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image72.png\n修改“everyone”权限为“读与写”\n![image73](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image73.png"
+    ],
+    [
+        "为什么大学电费系统无法访问？",
+        "在Firefox浏览器地址栏输入`about:config`,进入配置页面\n搜索`security.tls.version.min`,找到该配置项\n将其值修改从3改为1,即将最小TLS版本变更为1.0\n重新访问网站,问题解决"
+    ],
+    [
+        "兼职人员是否可以从ITSO申请设备？",
+        "按照当前设备与资产管理处的规定，只有全职员工才可以领取设备。故兼职人员无法申请设备。"
+    ],
+    [
+        "无法使用Blackboard APP？",
+        "Blackboard APP目前无法使用，建议使用网页端。此问题，ITSO已反馈给供应商，供应商还在处理中。"
+    ],
+    [
+        "AnyConnect连接成功之后，不能正常上网？",
+        "用域名**vpn.cuhk.edu.cn**或者IP地址登录成功之后，如果不能打开网页或者上网，请先查看VPN分配的内网IP地址是否正确。如果能够正常获取IP地址，说明AnyConnect登录成功并且建立VPN隧道。如果不能获取内网IP地址，说明VPN隧道建立不成功，请联系ITSO协助解决。在获取内网IP的前提下，如果不能正常访问网页，可以在浏览器输入**10.10.9.31**，如果能正常打开，说明网络层是通的，请检查终端是否有其他代理或者VPN，并关闭代理和其他VPN。\n![image23](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image23.png)"
+    ],
+    [
+        "请问学校给我配发的台式电脑为什么连接不了蓝牙设备？",
+        "学校配发的台式电脑是不安装蓝牙接收器的，所以无法连接蓝牙设备，如果需要请自行采购USB蓝牙接收器即可。"
+    ],
+    [
+        "Macbook安装VPN遇到报错'AnyConnect Secure Mobility Client' 无法安装在此磁盘上。您只能在运行OS X的磁盘上安装此软件？",
+        "可以尝试将VPN彻底卸载后再进行重新安装。请按照以下步骤操作：\n将VPN移入废纸篓。\n清空废纸篓。\n打开Terminal。\n输入命令 `sudo pkgutil --forget com.cisco.pkg.anyconnect.vpn`。\n输入你的密码，按一下enter键（此步骤是彻底清除VPN安装文件）。\n![image26](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image26.jpeg)\n如果在执行上述步骤后仍然无法安装，建议检查Mac OS版本是否兼容或咨询软件提供商的技术支持。"
+    ],
+    [
+        "我的设备连接CUHK（SZ）WiFi或有线网络cuhk.edu.cn无网络连接？",
+        "1) 请确认检查是否有固定的DNS存在。Windows查看方式为右键网络图标 > 打开网络设置 > 更改网络适配器设置 > 右键当前连接的无线网络或有线网络适配器 > 属性 > 双击互联网协议版本4 (TCP/IPv4)，查看弹出窗口中是否选中了“使用下列的IP地址”或“使用下列的DNS服务器地址”。如有，请将二者均改为选中“自动获取IP/DNS服务器地址”\n2) MacOS查看方式为点击顶部工具栏网络图标 > 网络偏好设置 > 在左侧选择当前连接的校园网 > 在右下角点击高级 > 点击弹出窗口中的DNS页，并检查是否有显示为亮黑色的DNS服务器地址。若有，请选中亮黑色的服务器地址并点击左下角减号将其全部删除。如果网络面板左下角出现锁图标，则需先点击锁图标，输入密码以解锁网络偏好设置面板。在删除全部亮黑色的服务器地址后，DNS页应当显示暗灰色无法删除服务器地址。完成后点击右下角的“好”，再点击右下角的应用保存设置。\n3) 请确认是否有其他代理软件或加速器、VPN在工作中，如有请先全部关闭。\n4) 请确认系统代理设置是否被修改。Windows查看方式为右键网络图标 > 打开网络设置 > 点击屏幕左侧的代理，并查看手动代理设置中三个地址/端口输入框是否均为空。若不为空，则需要先开启“使用代理服务器”，然后删除三个地址/端口输入框中的所有内容，再关闭“使用代理服务器”，打开“自动检测代理设置”\n5) MacOS查看方式为点击右上角网络图标 > 网络偏好设置> 在左侧选择当前连接的校园网 > 在右下角点击高级 >点击弹出窗口中的代理页，取消勾选左侧窗口中所有选项。如果网络面板左下角出现锁图标，则需先点击锁图标，输入密码以解锁网络偏好设置面板。再点击右下角的“好”。再点击右下角的“应用”。另外需注意，如果电脑上仍有未关闭的代理软件、加速器或VPN，代理设置可能会被此类软件再次修改。所以请确认软件完全退出再手动清除系统代理设置。\n6) 若认证窗口未弹出，您可手动访问wifi.cuhk.edu.cn（无线网络）或lan.cuhk.edu.cn（有线网络）。\n7) 如果上述操作全部完成之后仍然无法正常使用内网系统，可在工作日9:00-17:00携带问题设备前往TD-1楼ITSO服务台。（星巴克对面物业中心旁）"
+    ],
+    [
+        "我的办公电脑打开文件和软件都比平时慢，该怎么办？",
+        "可以先检查一下电脑C盘的空间容量，如果空间不足且电脑有D盘，可以将用户文档、用户下载、用户桌面、用户图片里的文件迁移到D盘，以此来清理出C盘的空间。\n电脑如果长时间保持开机状态（一周或者更长时间），电脑硬件将可能会处于负荷工作，建议可以尝试将电脑完全重启或关机一段时间后再开启，电脑性能将会有所恢复。\n可以在任务管理器里的启动项里面，关闭一些不常用的软件开机自动启动的功能。"
+    ],
+    [
+        "10.10.10.10的测速说明",
+        "![image33](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image33.jpeg)"
+    ],
+    [
+        "发送200人以上的邮件提示已达到发送配额",
+        "个人邮箱每日发送邮件上限200封（即200个收件人），个人邮箱和公共邮箱每封邮件收件人上限2000人，发送给邮箱群组即算一个收件人。公共邮箱授权给个人邮箱，使用授权的个人邮箱发送邮件，即算个人邮箱权限，每日发送邮件上限200封（即200个收件人），使用公共邮箱账号密码登录Outlook客户端或网页版邮箱发送邮件没有每日发送邮件的限制。\n需要开通个人邮箱发送超200封邮件的权限需要到办事大厅 > 服务中心 > IT服务 > CUHKSZ账号，提单申请开通。"
+    ],
+    [
+        "我如何使用Word合并邮件功能时使用公共邮箱发送？",
+        "要使用该功能的电脑需要已加入学校的域统一管理。然后切换Windows用户，使用公邮账号密码登录Windows。这样即可在Word该功能中使用公共邮箱发送邮件。如果在教职员自己的账号下使用该功能，将只能使用该教职员自己的邮箱账号发送该邮件。"
+    ],
+    [
+        "连接学校 VPN 无法访问国外网站？",
+        "我校提供的 VPN 是用于在校外访问学校内网的。如果有需要访问 YouTube 之类的国外网站，由于在中国这类网站是被禁止访问的，我们学校的 VPN 目前不提供此类网站的访问服务。"
+    ],
+    [
+        "全职员工如何开通校外班车乘坐的权限？",
+        "学院或书院需要为学生开通校外班车权限时，可统一收集需开通权限的学生信息并填写好附件表格，直接发送邮件到isupport@cuhk.edu.cn，然后抄送给GarySong@cuhk.edu.cn 和 dorachen@cuhk.edu.cn进行申请即可。\n姓名：\n校园卡号：\n所在书院（或学院）：\n乘坐路线：\n是否符合防疫入校标准"
+    ],
+    [
+        "我需要群发短信该怎么申请？",
+        "若部门/书院需要长期使用该服务，可在办事大厅 > IT服务 > 其他服务进行申请短信群发系统账号。\n若只需要使用一次非长期使用，可发送邮件到ITSO公邮（isupport@cuhk.edu.cn）进行申请。"
+    ],
+    [
+        "使用VPN应确保本机网络可以正确解析域名vpn.cuhk.edu.cn，且到服务器网络连接正常",
+        "打开系统的命令行，如下图所示\n![image21](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image21.png)\n输入 **nslookup vpn.cuhk.edu.cn**。校内解析的地址如红框10.20.220.176，校外地址是116.31.95.20。获取到解析IP地址说明DNS配置正常；输入`ping 116.31.95.20`，返回正常说明网络连接正常。"
+    ],
+    [
+        "行政楼会议室，HDMI线缆端头损坏，需要更换一条线？",
+        "请联系ITSO热线84273333，我们将安排专人跟进处理。"
+    ],
+    [
+        "使用装订功能报纸张类型错误",
+        "使用打印机装订功能提示如下图，原因是学校的刷卡打印机装订功能只支持A4纸张类型，Office Word软件的默认纸张类型是Letter，可以手动将Word文档的纸张类型更改成A4，或者在属性里面的Layout > Fit to new Paper Size 处的Same as Paper Size 手动更改为A4类型纸张即可打印。\n![image40](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image40.jpeg)\n![image41](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image41.jpeg)"
+    ],
+    [
+        "我的校园卡刷深北莫巴士提示没有权限？",
+        "关于深北莫巴士相关问题，请联系驻深北莫办公室老师查询。"
+    ],
+    [
+        "服务器托管的申请流程",
+        "办事大厅 (i.cuhk.edu.cn) > 服务中心 > IT服务 > 服务器托管 提单申请"
+    ],
+    [
+        "Win11系统上自带的Outlook(new)软件为什么登录不了大学员工邮箱？",
+        "Win11自带邮箱软件Outlook(new)原Mail，暂不支持Exchange类型邮箱，所以无法登录大学员工邮箱。\n![image64](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image64.png)\n![image65](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image65.png)"
+    ],
+    [
+        "办公室的新工位需要安装网络端口，怎么申请？",
+        "需要在办公室新装网络端口可以在网上办事大厅提单申请：\n网上办事大厅 > IT服务 > 其他服务"
+    ],
+    [
+        "无法将学生添加至课程？",
+        "教师和助教均可以添加学生入课程。操作如下：\nStep 1：![image1](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image1.png)\n\nStep 2：![image2](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image2.png)\n\n\nStep 3：![image3](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image3.png)\n\n\n\n\n"
+    ],
+    [
+        "请问博文阁系统出了问题可以联系哪个部门？",
+        "博文阁系统由大学图书馆管理和运维，如有问题可以联系大学图书馆，联系方式如下：\n电话: 0755-23515151电子邮件: <library@cuhk.edu.cn>"
+    ],
+    [
+        "我使用部门/社团的公共账号为什么不能登录办事大厅？",
+        "公共账号无此权限。如果您的部门/社团需要该权限，则可以发送邮件到isupport@cuhk.edu.cn申请开通该权限。"
+    ],
+    [
+        "连接VPN后无法观看课程回放？",
+        "BB上的视频，无需链接VPN，即可播放。另外因VPN有限速，且访问视频资源对网速要求较高，不推荐连接VPN后访问BB上的录播视频资源。"
+    ],
+    [
+        "需要上网课？在线考试？",
+        "宿舍人多杂乱，需要一个自在的网课空间，那就预订一间研讨室吧，在网上办事大厅(i.cuhk.edu.cn)的应用中心里可以选择“场地预订”一项预订大学与书院提供的各种功能室，\n![image34](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image34.png)\n![image35](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image35.png)\n也可以选择图书馆研讨室，\n![image36](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image36.png)\n![image37](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image37.png)\n"
+    ],
+    [
+        "请问学校给我配发的台式电脑为什么连接不了蓝牙设备？",
+        "学校配发的台式电脑是不含蓝牙接收器的，所以无法连接蓝牙设备，如果需要请自行采购USB蓝牙接收器即可。"
+    ],
+    [
+        "Word设置背景颜色后打印出来为什么没有？Word文档背景色无法打印怎么办？",
+        "打开Word文档，点击“设计”栏中的“页面颜色”。根据自己的需要给Word文档设置好背景色。\n![image53](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image53.png)\n设置好背景颜色之后，点击Word软件左上角的“文件”选项。\n![image54](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image54.png)\n进入文件选项卡之后，点击页面左侧的“打印”选项。可以看到Word文档的打印预览了，此时在打印预览中的我们不能看到背景颜色。。\n![image55](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image55.png)\n点击文件选项卡页面左侧的“选项”，进入Word设置页面。\n![image56](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image56.png)\n打开Word选项窗口之后，点击窗口左下角的“显示”选项卡。\n![image56](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image56.png)\n在显示选项卡下方的打印选项中，勾选“打印背景色和图像”选项。\n![image57](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image57.png)\n设置完成后，再次查看打印预览就能看到背景色已经可以打印了。\n![image58](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image58.png)"
+    ],
+    [
+        "我的笔记本电脑无法登录内网？",
+        "请确认是否连接了无线网络CUHK(SZ)或有线网络CUHK.EDU.CN，Windows查看方式为点击屏幕底端右侧任务栏网络图标，并核对弹出窗口中的网络名称是否与前述名称一致; MacOS查看方式为点击屏幕右上角网络图标，并核对弹出窗口中显示的网络名称。\n请确认是否设置了固定DNS。Windows查看方式为右键网络图标 > 打开网络设置 > 更改网络适配器设置 > 右键当前连接的无线网络或有线网络适配器 > 属性 > 双击互联网协议版本4 (TCP/IPv4)，查看弹出窗口中是否选中了“使用下列的IP地址”或“使用下列的DNS服务器地址”。如有，请将二者均改为选中“自动获取IP/DNS服务器地址”；MacOS查看方式为点击右上角网络图标 > 网络偏好设置 > 在左侧选择当前连接的校园网 > 在右下角点击高级 > 点击弹出窗口中的DNS页，并检查是否有显示为亮色的DNS服务器地址。若有，请选中高亮的服务器地址并点击左下角减号将其全部删除。如果网络面板左下角出现锁图标，则需先点击锁图标，输入密码以解锁网络偏好设置面板。在删除全部高亮的服务器地址后，DNS页应当显示一行暗色无法删除的10.20开头的服务器地址。完成后点击右下角的“好”，再点击右下角的应用保存设置。\n请确认是否有其他代理软件或加速器、VPN在工作中，如有请先全部关闭。\n请确认系统代理设置是否被修改。Windows查看方式为右键网络图标 > 打开网络设置 > 点击屏幕左侧的代理，并查看手动代理设置中三个地址/端口输入框是否均为空。若不为空，则需要先开启“使用代理服务器”，然后删除三个地址/端口输入框中的所有内容，再关闭“使用代理服务器”，打开“自动检测代理设置”; MacOS查看方式为点击右上角网络图标 > 网络偏好设置> 在左侧选择当前连接的校园网 > 在右下角点击高级 >点击弹出窗口中的代理页，取消勾选左侧窗口中所有选项。如果网络面板左下角出现锁图标，则需先点击锁图标，输入密码以解锁网络偏好设置面板。再点击右下角的“好”。再点击右下角的“应用”。另外需注意，如果电脑上仍有未关闭的代理软件、加速器或VPN，代理设置可能会被此类软件再次修改。所以请确认软件完全退出再手动清除系统代理设置。\n如果上述操作全部完成之后仍然无法正常使用内网系统，可在工作日9:00-17:00携带问题设备前往TD-1楼ITSO服务台。（星巴克对面物业中心旁）"
+    ],
+    [
+        "Adobe Acrobat无法打印文件，提示The document could not be printed",
+        "打开control panel(控制面板) > 选择 devices and printers（设备和打印机） > 右击司印客户端选择 printing preferences（打印机首选项） > 点击defaults（默认值） > 点击OK（确定），这样设置后再打开adobe就能正常打印。\n![image43](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image43.png)\n![image44](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image44.png)"
+    ],
+    [
+        "服务器资源的申请流程",
+        "如果是科研-超算平台申请：用户发邮件至hpc@cuhk.edu.cn 申请\n如果是教学：用户可找学院申请\n若是系统：用户可找系统开发评估\nps：以上流程由资讯科技服务处的孙柳老师提供，有疑问可以咨询孙柳老师"
+    ],
+    [
+        "我需要借用设备应该如何申请？",
+        "如果是临时活动/办公等短期（三天内）借用的设备需求，可以在办事大厅>IT服务>设备借用模块中提交申请；\n如果是长期设备需求，请联系部门资产管理员。"
+    ],
+    [
+        "刷卡打印机扫描身份证、校园卡、发票等提示无法识别纸张类型",
+        "刷卡打印机扫描功能只能识别标准纸张尺寸（例如：A3、A4、A5等），如需扫描身份证、校园卡、发票等非标准尺寸文件,可以先使用复印功能，再将复印文件进行扫描即可。刷卡打印机复印身份证、校园卡等卡片时可使用复印功能输出选项：ID卡复印。左上角"
+    ],
+    [
+        "我的CUHK(SZ)账号因为密码输入错误次数过多被锁。应该如何解锁？",
+        "可登录CUHK(SZ)密保平台myid.cuhk.edu.cn，点击登录界面的“解锁账户”入口，并验证已绑定的密保手机/邮箱等方式解锁自己的账户。如果由于未绑定密保导致无法自行解锁，请将校园卡/身份证照片与所需解锁的账号信息一并发至ITSO公邮 (isupport@cuhk.edu.cn)。我们会在核实身份后解锁您的账号。"
+    ],
+    [
+        "AnyConnect版本",
+        "PC端使用AnyConnect时,应确保软件为最新4.8版。打开 AnyConnect 客户端，点击下图红框处，即可查看 AnyConnect 当前版本。"
+    ],
+    [
+        "场地预定中特定场所（例如：书院功能房、音乐学院琴房、学院会议室）的预定权限如何开通？",
+        "![image38](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image38.png)\n大学全职员工默认拥有办事大厅-场地预定的权限，如需使用可以在场地预定中预定，特殊场所除外。特定场所（例如：书院功能房、音乐学院琴房、学院会议室）的预定权限，需要联系对应归属单位查询确认。"
+    ],
+    [
+        "Drop掉的课怎么还在BB中出现？",
+        "在加退课之后才退掉的课程，本科生请联系教务处帮忙退课，研究生请联系研究生院。（需注明自己的学号和退课的课程名称）"
+    ],
+    [
+        "书院网站权限开通",
+        "可联系对应书院网站管理员开通。无需向ITSO申请/操作。"
+    ],
+    [
+        "变更用印申请的审批人该联系谁？",
+        "需要变更用印申请的审批人，请发送邮件至资讯科技服务处（ITSO）同事徐洪义（<xuhongyi@cuhk.edu.cn>），并抄送校长办公室（PO）同事周阳（<zhouyang@cuhk.edu.cn>）。"
+    ],
+    [
+        "网络连接正常，网速太慢。",
+        "### 网速测试方法\n\n1. **可用浏览器进行网速测试:**\n   - **校内测试地址:** `10.10.10.10` - 可用于无线，有线，VPN网速的测试。详细测试说明请参考图2。\n   - **校外测试网站:** [https://www.speedtest.cn/](https://www.speedtest.cn/)，测速节点请选择深圳。\n   - **无线网络速度说明:** 5G WiFi网卡最高协商速度可达400Mbps。校内部分有线和无线网络国内Internet访问每终端下行100Mbps, 上行50Mbps。（以上数值仅为参考，实际速度会根据多种因素变化）\n\n### 测速网速慢的原因\n\n2. **可能原因包括:**\n   - a. 终端网卡型号较旧，建议参考网卡协商速度。\n   - b. 教室，食堂，会议室同一AP下无线网络终端数量多，信道占用率高。\n   - c. 宿舍网络AP的信号可能被家具遮挡，检查AP是否被柜子或床遮挡。通常靠窗的无线信号较弱。\n   - d. 无线网络故障。\n   - e. 有线网口和线路质量问题。\n\n### 访问Internet网速慢的解决方法\n\n3. **如果遇到网速慢的情况:**\n   1. **访问校内和校外的网站都很慢**\n      - 确保IP和DNS都是自动分配的，终端检测是否丢包。长时间ping网关观察丢包和延迟情况。如果丢包严重，可能是接入链路质量不佳或网卡问题。\n      - ![image30](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image30.jpeg)\n   2. **部分国内网络资源访问慢或无法访问**\n      - 如果4G网络可以正常访问，可能是学校出口链路的限制或链路需要优化。\n   3. **内存或CPU过高导致网络慢**\n      - 尝试重新启动PC。有时，快速重置可以立即解决问题，清除系统内存（RAM）。\n   4. **关闭或删除不需要的扩展程序，浏览器关闭不使用的标签页**\n      - 扩展程序可能会影响Chrome的运行速度。如果不再使用某些扩展程序，可关闭或移除来提升速度。\n      - **移除步骤:**\n        - 打开Chrome浏览器输入 `chrome://extensions/` 进入扩展程序管理；\n        - 选择相应的扩展程序，关闭或移除（如下图所示）；\n        - 做出更改后重启浏览器生效。\n      - ![image31](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image31.jpeg)\n      - **关闭不必要的应用程序**\n        - 使用Windows的任务管理器或Mac的活动监视器查看哪些应用程序占用资源，关闭它们可以加速计算机运行速度。"
+    ],
+    [
+        "变更公文系统的审批人该联系谁？",
+        "需要变更公文系统的审批人，请发送邮件至校长办公室（PO）同事戚佳雨（<qijiayu@cuhk.edu.cn>），并抄送校长办公室（PO）同事唐千会（<ninatang@cuhk.edu.cn>）。"
+    ],
+    [
+        "座机出现白屏；座机拨打或来电有一方听不到声音；无法使用座机听筒，只能开免提，座机显示屏上有一条杠线，无法查看未接来电等问题怎么办？",
+        "解决方法：\n先按以下步骤重置座机：\n步骤1：确保网线插好\n步骤2：拔掉网线，按\"#\"号键不放，插网线，10S后松开“#”号键，按下 1 2 3 4 5 6 7 8 9 ＊0 # ，按这个步骤恢复出厂\n问题如果依然存在，请联系ITSO。"
+    ],
+    [
+        "AnyConnect支持的操作系统。",
+        "安装和升级AnyConnect到4.8之前，请先确认客户端操作系统版本需求，请参考如下链接和说明。参考链接：[https://www.cisco.com/c/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb5457-cisco-anyconnect-secure-mobility-client-supported-operating.html](https://www.cisco.com/c/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb5457-cisco-anyconnect-secure-mobility-client-supported-operating.html)"
+    ],
+    [
+        "AnyConnect卸载",
+        "MacOS版请参考如下链接：[MACOS](http://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS) Windows版请参考如下链接 [Windows](https://oit.colorado.edu/tutorial/vpn-uninstall-cisco-anyconnect-client-windows) Ubuntu版请参考如下链接 [Ubuntu](https://www.socsci.uci.edu/~jstern/uci_vpn_ubuntu/)"
+    ],
+    [
+        "OneDrive客户端与Web版云端数据不同步",
+        "OneDrive客户端与Web版云端数据不同步,主要原因是OneDrive客户端没有启动导致，打开OneDrive即可同步。如果OneDrive没有启动，则OneDrive文件夹就只是本地文件夹，可以看到Status（状态栏）是空的；如果OneDrive已经启动，即可将OneDrive文件夹同步至云端，可以看到Status（状态栏）是有状态图标。\n![image45](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image45.png)\n![image46](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image46.png)"
+    ],
+    [
+        "部分硬件不支持AnyConnect.",
+        "例如：MateBook E 2019使用高通850处理器，并且搭载最新ARM平台，AnyConnect暂时无法使用。"
+    ],
+    [
+        "大于10MB的文件怎样在刷卡打印机上打印？",
+        "需要安装自助云打印驱动并通过驱动发送打印任务。具体操作方式与驱动文件可参考sysprint.cuhk.edu.cn网页下方的手册与驱动部分。"
+    ],
+    [
+        "访客卡/家属卡/附属单位卡持有人员能申请CUHK(SZ）账号吗？",
+        "大学员工家属即家属卡持有者是不能申请CUHK(SZ）账号的。若持有学校劳务合同等相关证明文件的大学兼职员工，或者附属单位全职员工和附属单位兼职员工等工作人员需要申请CUHK(SZ)账号，需要由大学全职员工或附属单位指定负责人为其提单申请。申请入口为：网上办事大厅（内网）> IT服务 > CUHK(SZ)账号。"
+    ],
+    [
+        "无线网络：如果无线网络显示无法连接或者无法连接到Internet。",
+        "首先排除AP故障或者单个AP连接终端数过多。AP故障：如果周围多个终端连接不上，AP灯不亮或者快闪。一般为AP故障。AP连接终端数过多：尝试换一个AP（更换上网位置）或者过一会再尝试连接。\n当AP显示正常或者其他用户可以正常连接情况下，可能需要重新WEB认证。WEB认证页面网址：[http://controller-02.cuhk.edu.cn:8080/portal](http://controller-02.cuhk.edu.cn:8080/portal)\n如果WEB认证页面无法打开，请检测IP地址和DNS是否自动获取，并正常分配。学校无线网络IPv4地址以10.30开头。如果无法获取IP和DNS，换一个位置或者无线AP能正常获取IP，排除是否终端问题。\n![image29](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image29.jpeg)"
+    ],
+    [
+        "MacOS 安装打印驱动失败问题",
+        "解决方法：在浏览器重复下载的驱动程序如遇重名的情况，文件名后面会自动添加（1）、（2）、（3）等字符来避免，但是在安装驱动的时候，系统会核实驱动程序文件名，如果文件名的后缀带了以上字符，将遇到安装失败的问题。需要解决此问题，只需将以上文件名后缀删除即可，保留CUHK(SZ)_cloudprint.cuhk.edu.cn_8119_mac.pkg"
+    ],
+    [
+        "我的电脑运行很慢，尤其是打开excel文件，运行非常慢？",
+        "该问题一般是系统空间满导致的，请按以下步骤检查：\n请先保存正在关闭的文件；\n请检查系统盘C盘空间是否满；\n尝试清理C盘文件，如检查了桌面和我的文档，都没有大量文档的话，一般是微信接收或Onedrive同步的文档导致的。需要将微信接收文件或Onedrive转存至其他盘，或删除不必要的文件，释放更多磁盘空间。"
+    ],
+    [
+        "连接学校VPN无法访问国外网站？",
+        "我校提供的VPN主要用途是方便校外成员访问学校内部资源。对于YouTube等国外网站，由于中国的网络管制政策，这些网站在中国是无法直接访问的。因此，学校VPN并不支持访问这类被限制的国外网站。\n如果您需要访问这些网站，可能需要使用其他的服务或工具，但请注意遵守当地的法律法规。"
+    ],
+    [
+        "VPN移动端使用和安装方法",
+        "使用IOS系统的用户，可以直接前往App Store中搜索Cisco Secure Client(原Cisco AnyConnect)，安卓用户请前往SharePoint地址下载客户端：[点击此处](https://sp16.cuhk.edu.cn/itsc/Students%20Public%20Documents/Forms/AllItems.aspx?RootFolder=%2Fitsc%2FStudents%20Public%20Documents%2FSoftware&FolderCTID=0x0120008B01EF5DC7EFC24799B7B0A33D9B15A5&View=%7B98865197%2D099A%2D4319%2DAE4E%2D752BE6927B0F%7D)。\n安装完成后启动客户端，选择连接，添加VPN连接。\n![image17](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image17.png)![image18](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image18.png)\n输入服务器地址`vpn.cuhk.edu.cn`(境外使用`vpnhk.cuhk.edu.cn`)。\n开启AnyConnect VPN后输入大学账户与密码即可成功连接。"
+    ],
+    [
+        "我的键盘/鼠标怎么没有反应？",
+        "可以先尝试Ctrl+shift（组合键）切换输入法\n请确认键盘/鼠标的USB线是否连接好；\n可以尝试换个USB口，重新插拔键盘/鼠标；\n尝试重启电脑。"
+    ],
+    [
+        "VPN网页端使用方法",
+        "如果只需要短暂使用VPN，或者只需要使用网页资源，单独下载Cisco AnyConnect客户端显得有些不必要；这种时候使用网页端VPN就是一个极好的选择。\n![image19](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image19.png)\n打开浏览器，在地址栏输入`vpn.cuhk.edu.cn`，使用大学账号登录。\n![image20](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image20.png)"
+    ],
+    [
+        "部分网络资源无法访问",
+        "· 境外网络资源无法访问: 国家因网络安全因素对境外访问进行限制。\n· 校内网络资源无法访问: 检查DNS是否自动获取，如果不是请改为自动获取。\n检查是否连接学校之外的VPN网络，请关闭VPN网络访问校内资源。\n检查是否使用代理\n![image32](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image32.jpeg)"
+    ],
+    [
+        "校外人员访问学校需要在哪做入校报备？",
+        "请微信扫码（下图）或搜索参观港中深小程序即可。\n![image80](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image80.png"
+    ],
+    [
+        "Microsoft365 for Mac 无法移除重新授权授权",
+        "访问以下网址下载Microsoft_Office_License_Removal工具运行即可。\n[https://support.microsoft.com/en-gb/office/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193](https://support.microsoft.com/en-gb/office/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)\n或者<\\sfolder\\HDSF\\Software\\购买软件\\Office>也有。\n![image63](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image63.png)"
+    ],
+    [
+        "据信博士生每学期有打印补助，请问该怎么申请？",
+        "免费打印额度需要走部门预算，原则上仅为担任助教工作的博士学生提供。是由学院统计好需要补充免费打印额度的博士生名单，走完预算流程之后统一报给ITSO添加额度。"
+    ],
+    [
+        "我是音乐学院的一名老师或学生，住在音乐学院过渡校区的宿舍里，请问我房间内网络连接不上怎么办？",
+        "音乐学院有设置专门的IT热线，请于工作时间拨打：23516230."
+    ],
+    [
+        "办公室显示器显示异常，显示有条纹、黑屏、变色、无信号等？",
+        "可以尝试拔插显示器与电脑的连接信号线或者电源线的两端，如尝试后无效，请联系ITSO热线842-73333，我们将安排专人检测排查，看是否需要更换信号线（HDMI、VGA、DP线）、显示器、电源线等。"
+    ],
+    [
+        "Win10系统的电脑没有中文输入法",
+        "win + i 组合键 > Time & Language > Language > Add a languages 找到中文并安装，点击Chinese > Options > Add a keyboard ，选择搜狗输入法。"
+    ],
+    [
+        "网络概况",
+        "我校的校园网服务主要包括有线网络、无线网络和VPN三大部分。网络出口由电信、联通、移动、教育网四家运营商提供服务。\n\n1) 无线网络覆盖范围为全校，涵盖所有宿舍、教室、会议室和大部分室外公共区域。\n无线SSID主要包括以下四个。\nCUHK(SZ)：为全校师生及教职工提供上网服务，可以访问校内公共资源和Internet；\nCUHK(SZ)-GUEST：为日常访客提供上网服务，可以访问校内部分资源和Internet；\nCUHK(SZ)-Free： 为重大活动或者开放日的访客提供上网服务；\neduroam ：为科研和教育机构的访客提供上网服务。可以访问校内公共资源和Internet\n（eduroam 支持IPv6和IPv4双栈协议，师生如需访问IPv6网络，可使用eduroam）\n\n2) 办公区域、教室和宿舍都配备有线网络接口，有线网络支持千兆到桌面。\n3) 不建议自行使用TP-LINK无线路由器。如有必要使用，请使用直通模式，不接WAN口。\n\n4) 身居校外访问校内网络须使用VPN。可以使用Cisco AnyConnect连接[https://registry.cuhk.edu.cn/faq/182/search](https://registry.cuhk.edu.cn/faq/182/search)。"
+    ],
+    [
+        "客户端使用和安装方法",
+        "大学的VPN服务主体是依托Cisco AnyConnect搭建的，如果在校外环境需要使用大学提供的服务，如访问[网上办事大厅](https://i.cuhk.edu.cn)、[教务系统](https://sis.cuhk.edu.cn)、访问图书馆资源等，需要登录大学VPN才可使用。最常见的使用方法是下载AnyConnect客户端，通过客户端使用VPN进行访问。\n访问[https://vpn.cuhk.edu.cn](https://vpn.cuhk.edu.cn)，在左侧菜单栏选择AnyConnect，网页会根据使用的操作系统(Win/MacOS)提供对应的下载链接。\n![image13](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image13.png)\n打开下载好的安装包。\n![image14](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image14.png)\n按照流程操作即可。\n![image15](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image15.png)\n安装完毕后在“开始”菜单(快捷键Win+S)中选择Cisco AnyConnect。\n![image16](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image16.png)\n在服务器一栏输入`vpn.cuhk.edu.cn` (如果在境外使用，请输入`vpnhk.cuhk.edu.cn`)，在弹出的进阶输入项中输入账户密码后连接即可。"
+    ],
+    [
+        "需要设置热线号码转接？",
+        "请提供以下信息至 isupport@cuhk.edu.cn 以进一步协助：\n确认热线号码，转接的所有座机号码；转接的座机是依次响起还是同时响起。\n依次响起的话，确认座机的转接顺序；每个座机号码之间的转接时间为多少秒（或者响几声）；转接到最后一个人之后要不要再转到第一个人循环。"
+    ],
+    [
+        "我的Chrome访问某些内容时显示FlashPlayer已不受支持怎么办？",
+        "Chrome已经不再支持Flash Player。如果一定要使用Flash Player请更换其他国内的浏览器。"
+    ],
+    [
+        "AnyConnect仅支持一个账号登录当前操作系统。",
+        "VPN连接时只允许一个账号登录当前操作系统，当有多个账号登录操作系统时，VPN连接会中断。可能收到如下报错：'AnyConnect profile settings mandate a single local user, but multiple local users are currently logged into your computer. A VPN connection will not be established.'"
+    ],
+    [
+        "Windows系统报错 'the VPN service is not available, Exiting'",
+        "Windows系统有'the VPN service is not available, Exiting'报错，可以参考如下链接操作，或者按照下图手动stop服务，再启动服务。参考链接：[https://community.cisco.com/t5/vpn/quot-the-vpn-service-is-not-available-exiting-quot-error-when/td-p/2754562](https://community.cisco.com/t5/vpn/quot-the-vpn-service-is-not-available-exiting-quot-error-when/td-p/2754562)"
+    ],
+    [
+        "上课前在教室里遇到不会使用的设备怎么办？",
+        "在新员工入职之后，我们会有相关的入职培训，如果在上课前紧急需要，请联系ITSO热线84273333，我们将安排专人上门协助指导使用。"
+    ],
+    [
+        "需要参观RB的超算中心该怎么申请",
+        "需要先在RA108做登记，登记完成后会有人带领前往。"
+    ],
+    [
+        "我是新入职的同事，如何申请学生工作管理系统的权限？",
+        "请通过大学网上办事大厅-IT服务-其他服务进行申请。"
+    ],
+    [
+        "我使用公邮向群组发送邮件提示没有向该地址发送邮件的权限？",
+        "请先在[https://itso.cuhk.edu.cn/article/290](https://itso.cuhk.edu.cn/article/290)中确认您使用的群组地址是否仍在使用中。如果群组地址确认有效公邮仍然没有权限，可致电ITSO 8427-3333。"
+    ],
+    [
+        "请问我捡到别人丢失的校园卡是送到ITSO服务台吗？",
+        "请将卡送到校园卡服务中心。\n地点：教学楼D栋下首层，博文书店对面\n电话：84273125\n校园卡业务：周一至周五 9:00-17:30"
+    ],
+    [
+        "MacBook还原网络设置",
+        "打开访达。\n![image74](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image74.jpeg\n点击前往。\n![image75](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image75.jpeg\n点击前往文件夹。\n![image76](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image76.jpeg\n输入路径：`/资源库/Preferences/SystemConfiguration`，点击下方的前往按钮。\n![image77](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image77.jpeg\n打开目录后，除了boot.plist文件，把其它所有文件都删除掉就可以还原网络设置了。\n![image78](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image78.jpeg"
+    ],
+    [
+        "我是一名新入职的员工，我该如何申请电脑设备？",
+        "有关新入职员工的办公设备的申请，请联系部门资产管理员。部门资产管理员可以根据各部门的实际情况，决定是否向ITSO提出申请设备。如部门有库存设备，可以优先进行分配现有设备。如部门没有可用设备，由部门资产管理员提出申请。如新员工使用的是部门的现有设备，由部门资产管理员提前联系ITSO，进行系统更新，以确保新员工可以使用到较新系统的设备。"
+    ],
+    [
+        "请问我的办公电脑（台式电脑/笔记本电脑）怎么安装专业的付费软件？",
+        "办公电脑安装软件申请流程：\n网上办事大厅（i.cuhk.edu.cn） > 服务中心 > IT服务 > 正版软件。"
+    ],
+    [
+        "如何修改我的CUHK（SZ）学校账号密码？",
+        "1.首次使用学校账号，请登录密码自助服务平台：[https://myid.cuhke.du.cn](https://myid.cuhke.du.cn)绑定密保手机或密保邮箱（非CUHK（SZ）邮箱），使用其他第三方邮箱）。学校账号的密码有效期为365天，在账号到期前14天有系统邮件提醒修改密码，直至您修改密码。如不进行修改，密码过期后将无法使用。\n2.如没有绑定密保手机或邮箱，密码过期或忘记时，请发邮件到 isupport@cuhk.edu.cn 寻求人工支持。\n3.如绑定了密保手机或邮箱，当忘记密码或过期时，可通过密码自助服务平台，验证密保手机或密保邮箱后方可找回密码。"
+    ],
+    [
+        "校外活动申请“代人申请”中无委托人",
+        "![image39](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image39.png)\n需要由委托人先在校外活动申请系统上分配权限给被委托人，被委托人才能在此系统上代委托人申请。"
+    ],
+    [
+        "我是学生却收不到所属专业/学院/书院的通知邮件怎么办？",
+        "各专业/学院/书院的群组名单一般由对应部门的老师管理。可先联系对应部门的老师询问自己是否在对应的专业/学院/书院的邮箱群组中。如果老师无法自行添加人员到对应群组，则应由老师联系ITSO 842-73333获得协助。"
+    ],
+    [
+        "为什么教室的投影仪显示的电脑桌面是空白的，在讲台电脑显示器打开的文件都不能在投影仪上看？",
+        "因为电脑开启了拓展模式（这个模式可以在显示器和投影仪上能同时显示不同的应用，方便多屏协同教学使用），如不需要此模式，可以长按键盘win键（四个小格子的按键）同时短按字母“P”键切换回常规的镜像模式。"
+    ],
+    [
+        "国际长途权限如何申请？",
+        "前往[办事大厅](https://i.cuhk.edu.cn/) > IT服务 > 其他模块提交申请。\n申请原因里注明需要开通国际长途的座机号码。"
+    ],
+    [
+        "我的个人电脑ITSO可以帮忙重装系统吗？",
+        "ITSO只能对属于学校资产的电脑设备进行系统重装，个人电脑需要系统重装建议联系第三方服务或产品售后服务。"
+    ],
+    [
+        "科研服务联系信息",
+        "邮箱：hpc@cuhk.edu.cn\n电话：0755-84273325\n地址：深圳市龙岗区龙翔大道2001号香港中文大学（深圳）ZX429"
+    ],
+    [
+        "我的个人笔记本电脑开不了机，笔记本电脑释放静电",
+        "笔记本释放静电前，我们需要将笔记本的电源充电器、移动硬盘、U盘、鼠标等所有的外接设备都拔掉，将笔记本电脑关机（如果是可拆卸的笔记本电池可以将它也拆卸了）；\n我们长按笔记本的电源开关键大概20秒，再松开电源开关键，如果不行，多尝试几次。"
+    ],
+    [
+        "如何设置将座机转接到自己手机？",
+        "可以按一下Fwd All键，然后输入手机号码进行转接。\n注意：深圳市内号码前面加9（比如：918823169251），深圳市外号码前面加90（比如：901895316922）。"
+    ],
+    [
+        "AnyConnect不支持远程桌面。",
+        "当远程桌面连接时，Cisco VPN连接可能不支持。报错如下：Error: 'Secure VPN via remote desktop is not supported' Users are unable to perform a remote desktop access. The Secure VPN via remote desktop is not supported error message appears."
+    ],
+    [
+        "使用Zoom SSO登录时，输入企业域名后没有后续弹出窗口或弹出的浏览器窗口没有显示/无法操作怎么办？",
+        "首先请确认输入的是正确的企业域名`cuhk-edu-cn`。若域名正确仍出现上述情况，可以尝试在设置-应用-默认应用中更换默认浏览器并再次尝试,或将zoom软件更新至最新版。如需协助可致电ITSO 842-73333。"
+    ],
+    [
+        "学校座机如何拨打电话？",
+        "ITSO为香港中文大学（深圳）的教职员提供电话服务与支持。学校办公电话号码由统一的电话号码前缀(842或235) 和五位分机号码组成。\n拨打方法：\n内线：直接拨打电话号码后五位，如IT热线电话（84273333）的分机号是73333；香港中文大学本校电话，同上；\n市内电话：先拨9，再拨电话号码；\n国内长途：先拨9和0，再拨电话号码；\n国际长途：（需要申请）9+00+【国家代码】+【地区代码】+【固定电话号码】；举例：纽约 (地区代码 = 212), USA (国家代码 = 1) => 9 00 1 212 1234567890，香港 (country code= 852) => 9 00 852 12345678。\n话机使用手册可参考：[https://itso.cuhk.edu.cn/zh-hans/basic/207](https://itso.cuhk.edu.cn/zh-hans/basic/207>"
+    ],
+    [
+        "我的校园卡消磁或校园卡遗失需要补办或校园卡损坏，可以去哪里处理？",
+        "请前往校园卡服务中心处理（下园TD负一楼博文书店对面中信银行隔壁），具体可以咨询84273125。"
+    ],
+    [
+        "只有课程学生能参加Zoom会议吗？",
+        "也可以将会议邀请发给课程之外的参会人员。"
+    ],
+    [
+        "为什么我的校园卡无法刷卡打印？",
+        "请确认您的卡是否是当天办理/补办的新校园卡。新校园卡需要等到发卡次日才可以使用刷卡打印功能。微信扫码登录打印功能不受影响。\n请确认是否只是校园卡不能使用，可以使用手机微信关注香港中文大学深圳ITSO公众号，在文印服务 > 用户中心绑定CUHK(SZ)账号后，使用微信公众号云打印功能上传文件打印、手机微信扫描打印机二维码登录或直接在打印机上输入CUHK(SZ)账号密码登录即可打印。\n请确认您的卡套里是否有其他卡片与校园卡叠放在一起，两张及以上的卡片叠放在一起可能会影响校园卡被机器识别读取，如有其他卡片叠放在一起，可以将校园卡直接取出再次尝试刷卡。若单独刷校园卡机器无提示音或没有任何反应，则可能是校园卡消磁。可以联系校园卡务中心的热线电话842-73125，或者前往校园卡务中心（下园TD负一楼博文书店对面中信银行隔壁）。"
+    ],
+    [
+        "从BB进入Zoom会议需要再次登录吗？",
+        "不需要登录zoom、也不需要输入会议号或会议密码。"
+    ],
+    [
+        "BB也能使用Zoom了",
+        "Step 1：![image](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image4.png)\n\nStep 2：![image5](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image4.png)\n\n\nStep 3：![image6](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image6.png)\n\nStep 4：![https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image7.png](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image7.png)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep 5：![image8](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image8.png)\n\n\n\n\n\n\nStep 6：![image9](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image9.png)\n\nStep 7：![image](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image10.png)\n\n\n\n\n\n\n"
+    ],
+    [
+        "登录Onedrive客户端无法登录, 提示报错“错误代码：0x8004de40”",
+        "按Windows键+ R，键入inetcpl.cpl，然后按Enter键。打开Internet属性并切换到“ Advanced(高级)”选项卡。标记以下选项：使用TLS 1.0 使用TLS 1.1 使用TLS 1.2，单击“ 应用”和“ 确定”以保存更改，重启PC。\n ![image62](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image62.jpeg)"
+    ],
+    [
+        "部门使用的小型打印机出问题维护由谁负责？",
+        "部门使用的小型打印机若出现技术故障，可致电ITSO 842-73333。如果只是耗材需要补充，则由使用部门自行负责采购更换。"
+    ],
+    [
+        "员工本地通讯组如何添加成员和设置发件权限？",
+        "本地通讯组管理员可以登陆自己的网页版邮箱，点击右上方的齿轮按钮→选择Option→左侧“General”→“Distribution groups”，右侧选择Distribution groups I own 选择对应管理的组，点击edit图标进行管理即可。如需增删本地通讯组成员则前往membership，如需要管理允许发件人权限则前往delivery management。"
+    ],
+    [
+        "域名无法正常解析时，如何连接VPN？",
+        "在第三步如果输入**nslookup vpn.cuhk.edu.cn**没有IP地址，说明客户端的DNS设置不正确或者有其他代理。\n方法一：调整DNS或者关闭代理；\n方法二：采用IP地址访问VPN(不推荐)。\n如下图所示：去掉**block connections to untrusted servers**的勾，输入[https://116.31.95.20:443](https://116.31.95.20:443)(校外)\n[https://10.20.220.176:443](https://10.20.220.176:443)(校内)\n![image22](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image22.png)"
+    ],
+    [
+        "VPN使用问题请参考链接",
+        "[https://itso.cuhk.edu.cn/sites/itso.prod.dpsite02.cuhk.edu.cn/files/2021-01/VPN%20Troubleshoot%20Reference%20Guide.pdf](https://itso.cuhk.edu.cn/sites/itso.prod.dpsite02.cuhk.edu.cn/files/2021-01/VPN%20Troubleshoot%20Reference%20Guide.pdf)"
+    ],
+    [
+        "我的笔记本电脑连接好CUHK(SZ)后，是否需要二次认证？",
+        "CUHK(SZ) 采用WEB+MAC地址优先认证。 首次连接网络及修改CUHK(SZ)账号密码后，才需要WEB认证，此后的180天上网不需要WEB认证。"
+    ],
+    [
+        "Macbook安装VPN遇到报错\"AnyConnect Secure Mobility Client\" 无法安装在此磁盘上。您只能在运行OS X的磁盘上安装此软件？",
+        "可以参考以下将VPN卸载干净后再次尝试重新安装：\n将VPN移入废纸篓。\n清空废纸篓。\n打开Terminal > 输入命令 `sudo pkgutil --forget com.cisco.pkg.anyconnect.vpn` > 输入你的密码，按一下enter键（此步骤是彻底清除VPN安装文件）。\n![image26](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image26.png)"
+    ],
+    [
+        "请问我的个人（非学校办公）电脑能在哪下载付费的专业办公软件？",
+        "ITSO有提供一些常用的办公学习软件，可以访问下面的链接查阅和下载[https://cuhko365.sharepoint.com/sites/swcenter](https://cuhko365.sharepoint.com/sites/swcenter)。"
+    ],
+    [
+        "无法在BB上传作业？",
+        "请勿使用Safari浏览器上传作业，推荐使用谷歌浏览器。上传遇到问题，请将所遇到的问题截图发到 isupport@cuhk.edu.cn，我们会有专人跟进处理。"
+    ],
+    [
+        "有线网络：显示网络无连接。",
+        "先判断网卡接口灯是否正常，如果接口灯不正常，可换一台终端测试，排除终端网卡的问题。若初步排查网卡和接口均无异常，请参照图1查看IP地址和DNS获取是否正常。"
+    ],
+    [
+        "请问校园邮箱如何配置？",
+        "大学为教职员工提供@cuhk.edu.cn结尾的学校邮箱，为学生与学生组织提供**@link.cuhk.edu.cn**结尾的学校邮箱。其中区别为：@link的邮箱服务提供商为微软O365，而@cuhk的学校邮箱使用Exchange协议部署在学校服务器上。\n\n使用校园邮箱\n基本信息\n使用校园邮箱需要具备以下条件：\n\t用户拥有开通了邮箱的CUHK(SZ)账号\n该项对于学生、全职教职员工与公邮为默认开通。若用户为兼职则可能需要确认其提交CUHK(SZ)账号申请时是否勾选了需要开通邮箱。\n邮箱服务器地址（同时作为邮箱的直接网页入口）：\n\t@link邮箱：<outlook.office365.com>\n\t@cuhk邮箱：<mail.cuhk.edu.cn>\n使用Exchange方式添加@cuhk邮箱时可能需要以下信息：\n\t域\\用户名：cuhksz\\(CUHK(SZ)用户名)\n使用Exchange方式添加@link邮箱时可能需要以下信息：\n\t域名：(留空)\n\t用户名：(学号)@link.cuhk.edu.cn\n\n@link网页版邮箱使用\n使用@link网页版邮箱有两种方式登录\n\t\t进入办事大厅>学生邮箱即可直接登录\n\t\t浏览器访问学生邮箱网页入口(<outlook.office365.com>)\n使用方式一访问邮箱由于需要经过办事大厅跳转，需要用户连接到校内网络环境；使用方式二不需要。\n进入登录页后输入CUHK(SZ)邮箱，登录页会跳转到学校账号登陆页面，输入密码即可登录网页版邮箱。\n\n@cuhk网页版邮箱使用\n使用@cuhk网页版邮箱有两种方式登录\n进入办事大厅>员工邮箱即可直接登录\n浏览器访问邮箱网页入口(<mail.cuhk.edu.cn>)\n使用方式一访问邮箱由于需要经过办事大厅跳转，需要用户连接到校内网络环境；使用方式二不需要。\n进入登录页后输入CUHK(SZ)邮箱，登录页会跳转到学校账号登陆页面，输入密码即可登录网页版邮箱。\n\n@link桌面客户端(outlook)版邮箱使用\n注意：学生账号的office授权仅限网页版office，使用outlook需要用户自行订阅或购买桌面版office。但同样可以参照outlook使用步骤在其他桌面客户端中使用@link邮箱。\n启动Outlook时，若没有添加过邮箱账户，则会弹出账户添加提示窗口。\n![image50](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image50.png) \n输入@link邮箱账户，outlook会提示输入密码。完成登录后即显示添加账户成功。\n!![image51](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image51.png) \n点击已完成，outlook会自动完成账户数据同步。\n\n@cuhk桌面客户端(outlook)版邮箱使用\n添加账户时，输入@cuhk账号，在弹出的账户类型选择列表中选择Exchange。\n ![image52](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image52.png)\n待加载完成后输入CUHK(SZ)账号密码完成账户添加。\n\n@link移动邮箱应用(以华为自带邮件应用为例)使用\n在添加账户页面选择添加账户类型Exchange，随后输入以下内容：\n`电子邮件地址：(学号/CUHK(SZ)账号)@link.cuhk.edu.cn\n用户名：(学号/CUHK(SZ)账号)@link.cuhk.edu.cn\n密码：CUHK(SZ)账号密码`\n完成后点击登录，在弹出的CUHK(SZ)登录页中输入CUHK(SZ)账号密码，并在Microsoft访问邮箱许可点击接受。加载完成后账户即完成登录。完成账户添加后需要一段时间同步邮件。\n\n@cuhk移动邮箱应用(以华为自带邮件应用为例)使用\n在添加账户页面选择添加账户类型Exchange，输入@cuhk邮箱地址后点击手动设置，随后输入以下内容：\n\t\t电子邮件地址：@cuhk电子邮件地址\n\t\t域名：cuhksz\n\t\t用户名：CUHK(SZ)账号\n\t\t密码：CUHK(SZ)账号密码\n\t\t服务器：<mail.cuhk.edu.cn>\n完成后点击登录，并根据用户需求自行确认邮箱自动更新策略。完成账户添加后需要一段时间同步邮件\n"
+    ],
+    [
+        "BB集成的Zoom视频回放永久有效吗？",
+        "生成的视频也是存储于Zoom云端，将于120天后自动删除，重要的视频建议下载并传到视频平台，可能的话，本地也存一份。"
+    ],
+    [
+        "VPN的速度受公网网速影响大，可以通过什么方式测速？",
+        "可以通过10.10.10.10测速。<nt-r.cuhk.edu.cn/testspeed>用来测试内网速度，受公网和出口带宽限制，上传和下载速度通常在20Mbit/s。\n![image24](https://mypage.cuhk.edu.cn/academics/nicholashuang/image/image24.png)"
+    ],
+    [
+        "为什么小鹅通视频会议开了虚拟背景后没有效果？",
+        "虚拟背景的功能是需要拍摄到人像后，才能对背景进行虚化的，没有拍摄人像无法捕捉关键画面不能进行虚化"
+    ],
+    [
+        "我的办公笔记本/台式电脑开机后键盘灯和电源灯常亮，显示器黑屏无画面",
+        "台式电脑先检查显示器和电脑主机连接的信号线，确保信号线正常连接，如果还是没有改善，可以尝试释放静电的操作。\n笔记本释放静电前，我们需要将笔记本的电源充电器、移动硬盘、U盘、鼠标等所有的外接设备都拔掉，将笔记本电脑关机（如果是可拆卸的笔记本电池可以将它也拆卸了）；我们长按笔记本的电源开关键大概20秒，再松开电源开关键，如果不行，多尝试几次。\n台式电脑释放静电前，需要先断电，再长按电源键30秒释放静电，重新开机即可。"
+    ],
+    [
+        "如何修改我的CUHK（SZ）学校账号密码？",
+        "1.首次使用学校账号，请登录密码自助服务平台：[https://myid.cuhke.du.cn](https://myid.cuhke.du.cn) 绑定密保手机或密保邮箱（非CUHK（SZ）邮箱），使用其他第三方邮箱）。学校账号的密码有效期为365天，在账号到期前14天有系统邮件提醒修改密码，直至您修改密码。如不进行修改，密码过期后将无法使用。\n2.如没有绑定密保手机或邮箱，密码过期或忘记时，请发邮件到 isupport@cuhk.edu.cn 寻求人工支持。\n3.如绑定了密保手机或邮箱，当忘记密码或过期时，可通过密码自助服务平台，验证密保手机或密保邮箱后方可找回密码。"
+    ]
+]
